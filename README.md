@@ -106,7 +106,29 @@ Taskify is developed and maintained by Team Apollo, a group of dedicated develop
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Contributing
 
-We welcome contributions to Taskify! Please review our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to make submissions.
+We welcome contributions to Taskify! Please review our guidelines for making submissions.
+<div align="center">
+<table>
+  <tr>
+      <td align="center">
+      <a href="https://www.instagram.com/apollotaskify/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@Apollo&size=square" alt="Instagram">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/profile.php?id=61576212182631" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Apollo&size=square" alt="facebook">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sarahenia20/Apollo_FS_Taskify" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FApollo&size=square" alt="github">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
 
 
 
