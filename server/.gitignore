@@ -56,3 +56,8 @@ Thumbs.db
 # Misc
 *.bak
 *.tmp
+
+# ──────────────
+# Environment / Secrets
+# ──────────────
+*.env
