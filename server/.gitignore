@@ -1,0 +1,58 @@
+# ──────────────
+# Node.js
+# ──────────────
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ──────────────
+# Python
+# ──────────────
+# Virtual environments
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.mypy_cache/
+.pytest_cache/
+
+# Coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# Test & dev tools
+.tox/
+.pyre/
+.dmypy.json
+
+# ──────────────
+# OS / Editor
+# ──────────────
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Misc
+*.bak
+*.tmp
