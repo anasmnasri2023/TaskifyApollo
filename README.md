@@ -14,6 +14,8 @@
 
 Taskify is a comprehensive task and project management platform built with the MERN stack (MongoDB, Express.js, React, Node.js) and enhanced with AI capabilities through Google's Gemini. Our solution streamlines workflow management, resource allocation, and team collaboration in one unified interface.
 
+#TaskManagement #ProjectManagement #MERN #ReactJS #NodeJS #MongoDB #GeminiAI #Docker #CICD #Agile #WebDevelopment #Collaboration #Analytics #RealTime #AI
+
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 <br><br>
 
