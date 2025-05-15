@@ -123,7 +123,7 @@ We welcome contributions to Taskify! Please review our guidelines for making sub
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sarahenia20/Apollo_FS_Taskify" target="_blank">
+      <a href="https://github.com/anasmnasri2023/TaskifyApollo" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FApollo&size=square" alt="github">
       </a>
     </td>
